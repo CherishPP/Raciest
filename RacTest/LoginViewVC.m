@@ -41,6 +41,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [self bindModel];
+    self.title = @"登录";
 
 }
 
